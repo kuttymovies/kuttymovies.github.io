@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuttymovies.github.io/sitemap.xml
